@@ -23,4 +23,5 @@ yarn-debug.log*
 yarn-error.log*
 
 shrinkwrap.yaml
+pnpm-lock.yaml
 pnpm-debug.log
